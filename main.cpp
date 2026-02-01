@@ -88,7 +88,7 @@ void printMenu() {
 
 /* TODO: Implement these functions */
 
-// Remeber, if you pass an array into a function, it is a pass by reference!
+// Remember, if you pass an array into a function, it is a pass by reference!
 // Because arrays decay to poitners, so you are getting a pointer to the first element
 // which allows you to modify the data. 
 
